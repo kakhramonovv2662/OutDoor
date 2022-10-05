@@ -2,7 +2,8 @@
 
 # Rules project
 
-```1. Tartib bilan ishlash.
+```
+ 1. Tartib bilan ishlash.
  2. Git hubdan olayotgan jarayonida git clone qilib olib ishlash.
  3. Ishlayotgan inson o'zi uchun branch ochish.
  4. Git push qilish jarayoni "dev" branchiga push qilish va git pull qilib olish.
